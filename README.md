@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello
+
+Currently building cool things @ [bahasa.ai](https://bahasa.ai/)
+
+You can reach me on [Linkedin](https://www.linkedin.com/in/hanif-audah/)
 
 <!--
 **hanifaudah/hanifaudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
