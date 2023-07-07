@@ -1,6 +1,6 @@
 # Hello
 
-Currently building cool things @ [bahasa.ai](https://bahasa.ai/)
+Currently building cool things @ [meeting.ai](https://meeting.ai/)
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/hanif-audah/)
 
