@@ -4,6 +4,9 @@ Currently building cool things @ [meeting.ai](https://meeting.ai/)
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/hanif-audah/)
 
+### Fun Projects
+- `pray-lang` (https://github.com/hanifaudah/pray-lang): A turing complete programming language using only the 🙏 emoji, compiled in C.
+
 <!--
 **hanifaudah/hanifaudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
