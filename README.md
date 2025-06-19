@@ -4,6 +4,8 @@ Currently building cool things @ [tvlk](https://www.traveloka.com/)
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/hanif-audah/)
 
+Checkout my personal site (still a work in progress): [hanifaudah.com](https://hanifaudah.com)
+
 ### Fun Projects
 - `pray-lang` (https://github.com/hanifaudah/pray-lang): A turing complete programming language using only the 🙏 emoji, compiled in C.
 
