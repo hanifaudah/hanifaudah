@@ -9,10 +9,8 @@ Checkout my personal site (still a work in progress): [hanifaudah.com](https://h
 ### Fun Projects
 - `pray-lang` (https://github.com/hanifaudah/pray-lang): A turing complete programming language using only the 🙏 emoji, compiled in C.
 - Some mini-games I made: https://itch.io/profile/greennerd
-
-### Fun Games
-- https://github.com/hanifaudah/rando-survivor
-- https://github.com/hanifaudah/belom-solat
+- 2D Roguelike (C#): https://github.com/hanifaudah/rando-survivor
+- 3D First-person shooter (C#): https://github.com/hanifaudah/belom-solat
 
 <!--
 **hanifaudah/hanifaudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
