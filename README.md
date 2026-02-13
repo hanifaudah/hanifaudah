@@ -12,6 +12,9 @@ Checkout my personal site (still a work in progress): [hanifaudah.com](https://h
 - 2D Roguelike (C#): https://github.com/hanifaudah/rando-survivor
 - 3D First-person shooter (C#): https://github.com/hanifaudah/belom-solat
 
+### University Lectures
+- https://hanifaudah.com/blog/2025/11/13/backend-engineer-in-5-minutes.html
+
 <!--
 **hanifaudah/hanifaudah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
