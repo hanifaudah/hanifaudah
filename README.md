@@ -7,7 +7,7 @@ You can reach me on [Linkedin](https://www.linkedin.com/in/hanif-audah/)
 Checkout my personal site (still a work in progress): [hanifaudah.com](https://hanifaudah.com)
 
 ### Research Publications
-- 10.1109/ICAICTA59291.2023.10390399
+- [https://doi.org/10.1109/ICAICTA59291.2023.10390399](https://doi.org/10.1109/ICAICTA59291.2023.10390399)
 
 ### University Lectures
 - https://hanifaudah.com/blog/2025/11/13/backend-engineer-in-5-minutes.html
